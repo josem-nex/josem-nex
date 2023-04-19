@@ -16,9 +16,5 @@
 - ⚡ Fun fact: Let's play <img src= "https://cdn-icons-png.flaticon.com/512/588/588308.png" height="25" /> :video_game:
 </h3>
   
-<h3 align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josem-nex&layout=compact&theme=prussian)](https://github.com/josem-nex/github-readme-stats) 
-  
-  </h3>
   

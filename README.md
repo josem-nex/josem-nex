@@ -4,19 +4,6 @@
 
 ---
 
-### Contact:
-
-<p align="center">
-  <a href="https://t.me/nex25k">
-    <img alt="Telegram" width="189px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a target="_blank" href="mailto:nex25k@gmail.com">
-    <img  alt="Gmail" width="148px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 
 - 👨‍💻 I'm a **Computer Science** student at **Havana University**.
 
@@ -30,6 +17,21 @@
 ---
   
   
+### Contact:
+
+<p align="center">
+  <a href="https://t.me/nex25k">
+    <img alt="Telegram" width="189px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:nex25k@gmail.com">
+    <img  alt="Gmail" width="148px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+
 ### My Skills:
 
 <p align="center">

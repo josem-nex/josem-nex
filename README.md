@@ -71,3 +71,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josem-nex&theme=dark&show_icons=true&hide_border=true&bg_color=101010"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=josem-nex&color=red&style=for-the-badge)" />
+  </a>
+</p>
